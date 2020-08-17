@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![shjang1013 github stats](https://github-readme-stats.vercel.app/api?username=shjang1013&show_icons=true&theme=vue)](https://github.com/shjang1013/shjang1013)
+
 <!--
 **shjang1013/shjang1013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
