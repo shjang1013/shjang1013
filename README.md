@@ -1,7 +1,3 @@
-### Hi there 👋
-#### [장소현의 포트폴리오(Portfolio)🍀](https://www.notion.so/2f2d3708ddd2466fa227b02f8b7dd387)
-
-<br>
 
 [![shjang1013 github stats](https://github-readme-stats.vercel.app/api?username=shjang1013&show_icons=true&theme=vue)](https://github.com/shjang1013/shjang1013)
 
