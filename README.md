@@ -1,17 +1,26 @@
+<h3 align="center"> Hello, I'm Sohyeon 🍀 </h3>
 
-[![shjang1013 github stats](https://github-readme-stats.vercel.app/api?username=shjang1013&show_icons=true&theme=vue)](https://github.com/shjang1013/shjang1013)
+<br>
+<h3 align="center">Main Tech Stack 🛠</h3>
 
-<!--
-**shjang1013/shjang1013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>&nbsp
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+------------------
+<h2 align="center">
+
+  
+  [![shjang1013 github stats](https://github-readme-stats.vercel.app/api?username=shjang1013&show_icons=true&theme=vue)](https://github.com/shjang1013/shjang1013)
+  <br/>
+  
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sohh)](https://solved.ac/sohh)
+  <br/>
+  
+
+</h2>
+
+
