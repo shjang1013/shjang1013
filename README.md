@@ -1,4 +1,4 @@
-<h3 align="center"> Hello, I'm Sohyeon 🍀 </h3>
+<h3 align="center"> Hello, I'm Sohyeon Jang 🍀 </h3>
 
 <br>
 <h3 align="center">Main Tech Stack 🛠</h3>
@@ -10,7 +10,7 @@
 </p>
 
 
-------------------
+<br>
 <h2 align="center">
 
   
